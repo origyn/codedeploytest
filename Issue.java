@@ -1,4 +1,4 @@
-package entities;
+sdfpackage entities;
 
 import helpers.Loggo;
 
